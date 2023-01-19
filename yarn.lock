@@ -1550,10 +1550,10 @@
     "@sentry/types" "6.19.7"
     tslib "^1.9.3"
 
-"@side/jest-runtime@^1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@side/jest-runtime/-/jest-runtime-1.0.1.tgz#29c3874570f1a6bbdeea86e4bc60eaef385e3af3"
-  integrity sha512-gDrS+Z9xu3tue2ighChftPPpA5qU26+p5iBNymaXh8kFhFecsokZdwyo+/wNu8QNcbyEnlB+DZAGkpG2Mm1jWA==
+"@side/jest-runtime@^1.1.0":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@side/jest-runtime/-/jest-runtime-1.1.0.tgz#30c0d005231e887bb81ac2ab8611076b5e592bde"
+  integrity sha512-KikALXowNWyOxn/zdy4AUgkYq/1hASkOEEP0+bcCDv5L3KJNwDw8kmzBcx7sljnwV8yi2cLGzt9QH9EjwA9TKg==
 
 "@sideway/address@^4.1.3":
   version "4.1.4"
